@@ -42,5 +42,5 @@ Students can explore upcoming events and register online, while admins can creat
 ---
 
 ## 👩‍💻 Authors
-**Shankravva Mayakar**  **Ruchita Jadhav**
+**Shankravva Mayakar ,**  **Ruchita Jadhav**
 B.E. Computer Science & Engineering, SDMCET
