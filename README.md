@@ -27,13 +27,6 @@ Students can explore upcoming events and register online, while admins can creat
 
 ---
 
-## 📸 Screenshots
-| Home Page | Events | Registration | Admin |
-|------------|---------|---------------|--------|
-| ![Home](images/home.png) | ![Events](images/events.png) | ![Register](images/register.png) | ![Admin](images/admin.png) |
-
----
-
 ## 🚀 How to Run
 1. Download or clone this repository  
 2. Open **index.html** in any web browser  
