@@ -1,5 +1,5 @@
 🎓 College Event Registration System
-
+https://github.com/ruchitajadhav11/College_Events_Registration/blob/main/Technical%20Event.png
 A responsive web-based platform for managing college events and registrations. Students can explore upcoming events and register online, while admins can create and manage events easily.
 
 🌟 Features
