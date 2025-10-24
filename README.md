@@ -21,27 +21,46 @@ Here is a visual overview of the main files and directories in the project:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & UI Previews
 
-Here are some glimpses of the College Event Registration System in action:
+Here are previews of every part of the system, from the user's view to the admin dashboard and event pages.
 
-**Home Page:**
+### User Interface (Front-end)
+
+**Home Page**
 ![Home Page](home.png)
 
-**Event Selection:**
+**Event Selection Page**
 ![Select Events](Select%20events.png)
 
-**Registration Form:**
+**Technical Event Details**
+![Technical Event](Technical%20Event.png)
+
+**Cultural Event Details**
+![Cultural Event](cultural%20event.png)
+
+**Central Event Details**
+![Central Event](central%20event.png)
+
+**Registration Form - Part 1**
 ![Registration Form 1](registration%20form1.png)
 
-**Registration Success:**
+**Registration Form - Part 2**
+![Registration Form 2](registration%20form2.png)
+
+**Registration Success Confirmation**
 ![Registration Successful](registration%20seccessful.png)
 
-**Admin Panel Overview:**
+### Admin Interface (Back-end)
+
+**Admin Dashboard Overview**
 ![Admin Panel](admin%20panel.png)
 
-**Admin Panel 2:**
+**Admin Panel - Event Management**
 ![Admin Panel 2](admin%20panel2.png)
+
+**View Registrations List**
+![View Registration](view%20registration.png)
 
 ---
 
