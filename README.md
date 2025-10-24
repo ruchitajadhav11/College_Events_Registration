@@ -4,13 +4,7 @@ A responsive **web-based platform** for managing college events and registration
 
 ---
 
-### 📂 Repository File Structure
 
-Here is a visual overview of the main files and directories in the project:
-
-![Repository File Structure](Screenshot%202025-10-24%20124742.png)
-
----
 
 ## 🌟 Features
 - Browse events by category (**Cultural, Technical, Central**)
@@ -30,9 +24,6 @@ Here are previews of every part of the system, from the user's view to the admin
 **Home Page**
 ![Home Page](home.png)
 
-**Event Selection Page**
-![Select Events](Select%20events.png)
-
 **Technical Event Details**
 ![Technical Event](Technical%20Event.png)
 
@@ -47,6 +38,9 @@ Here are previews of every part of the system, from the user's view to the admin
 
 **Registration Form - Part 2**
 ![Registration Form 2](registration%20form2.png)
+
+**Event Selection Page**
+![Select Events](Select%20events.png)
 
 **Registration Success Confirmation**
 ![Registration Successful](registration%20seccessful.png)
