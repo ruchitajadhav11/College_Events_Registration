@@ -31,7 +31,7 @@ Here are previews of every part of the system, from the user's view to the admin
 ![Cultural Event](cultural%20event.png)
 
 **Central Event Details**
-![Central Event](central%20event.png)
+![Central Event](central%20Event.png)
 
 **Registration Form - Part 1**
 ![Registration Form 1](registration%20form1.png)
